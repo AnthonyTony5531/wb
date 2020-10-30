@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://summerhotsi.github.io/wb/jys.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://summerhotsi.github.io/wb/57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://summerhotsi.github.io/wb/1024.png</string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.wbtest.date2</key>
+		<string>wb_adhoc_test</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>307F261A10EFB375780A3EC507E0D9264B26257B</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>T27E5Y9F7J</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>

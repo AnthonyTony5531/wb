@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>JYS.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>307F261A10EFB375780A3EC507E0D9264B26257B</string>
+				<key>dateExpires</key>
+				<string>2021/10/30</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>T27E5Y9F7J.com.wbtest.date2</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>T27E5Y9F7J</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>T27E5Y9F7J.com.wbtest.date2</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>微币.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>0c8032c5-65f3-49f0-bbd8-2b7722f44e10</string>
+				<key>name</key>
+				<string>wb_adhoc_test</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>T27E5Y9F7J</string>
+				<key>name</key>
+				<string>kun yang</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
